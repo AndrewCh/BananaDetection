@@ -38,6 +38,10 @@
           <option name="url" value="https://AndrewChuk@bitbucket.org/aviadholy/phraseit.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://AndrewChuk@bitbucket.org/AndrewChuk/tensorflowmnist.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Andrei\AndroidStudioProjects" />
