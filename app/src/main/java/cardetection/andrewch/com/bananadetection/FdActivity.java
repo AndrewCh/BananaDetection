@@ -95,7 +95,7 @@ public class FdActivity extends Activity implements CvCameraViewListener2 {
                         // load cascade file from application resources
                         InputStream is = getResources().openRawResource(R.raw.banana_classifier);
                         File cascadeDir = getDir("cascade", Context.MODE_PRIVATE);
-                        mCascadeFile = new File(cascadeDir, "cars5.xml");
+                        mCascadeFile = new File(cascadeDir, "banana_classifier.xml");
                         FileOutputStream os = new FileOutputStream(mCascadeFile);
 
                         byte[] buffer = new byte[4096];
