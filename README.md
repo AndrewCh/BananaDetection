@@ -10,4 +10,4 @@ https://github.com/mrnugget/opencv-haar-classifier-training
 This application is made in Andorid Studio with Gradel.
 It may be downloaded, build and run on an mobile phone with Andorid.
 
-![Alt text](/home/andreich/Pictures/banana.jpg?raw=true "Title")
+![Alt text](https://github.com/AndrewCh/BananaDetection/blob/master/banana.jpeg?raw=true "Title")
